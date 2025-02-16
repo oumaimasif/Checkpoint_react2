@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* colorer le baskground */
+/* colorer le background */
 @layer base{
   body{
     background-color: olive;
